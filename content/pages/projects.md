@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the research proposal assignment
+  of the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: e258ba9b-6194-4991-edd5-7754b3e7c139
 ---

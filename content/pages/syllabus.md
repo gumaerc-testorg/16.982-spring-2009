@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on the rationale for offering this subject, learning objectives course meeting times,
+  prerequisites, course structure, grading, and the schedule of lecture topics and
+  assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3346960f-efb4-316f-62e4-3b6857b8cb36
 ---

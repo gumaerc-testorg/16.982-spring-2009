@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with notes from selected lectures.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5b89482f-d09d-57b4-4fa7-7bea121c62f2
 ---
@@ -30,7 +35,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction, overview: bio-inspired structures, applications (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mit16_982s09_lec01))
+Introduction, overview: bio-inspired structures, applications ({{% resource_link 984da8df-8709-73c9-a556-9eb08d921387 "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +44,7 @@ Introduction, overview: bio-inspired structures, applications (![This resource m
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Stealing ideas from nature, biomimetics ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec02))
+Stealing ideas from nature, biomimetics ({{% resource_link 56251d3b-a585-c42b-9dcd-b11a3519dbd4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +53,7 @@ Stealing ideas from nature, biomimetics ([PDF]({{< baseurl >}}/resources/mit16_9
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Materials properties, design, structural behavior ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec03))
+Materials properties, design, structural behavior ({{% resource_link eb66965c-a040-f297-4898-b6618ae51b45 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +62,7 @@ Materials properties, design, structural behavior ([PDF]({{< baseurl >}}/resourc
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Materials properties, design, structural behavior (cont.) ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec04))
+Materials properties, design, structural behavior (cont.) ({{% resource_link 2d7c94d9-628d-0d9d-4b00-39401da48c7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +80,7 @@ Morphing structures
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Nanoparticles and structures ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec06))
+Nanoparticles and structures ({{% resource_link 16fbf6d5-435a-e966-1587-034f707a6ad4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +89,7 @@ Nanoparticles and structures ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec06
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Biomimetics of deployable structures ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec07))
+Biomimetics of deployable structures ({{% resource_link 85685248-7116-c13d-1f97-f9300de28785 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +176,7 @@ Smart and active material
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Bulk nanostructures advanced materials ([PDF]({{< baseurl >}}/resources/mit16_982s09_lec16))
+Bulk nanostructures advanced materials ({{% resource_link a28c6d1e-da81-d621-f121-8b85af3bdae7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
